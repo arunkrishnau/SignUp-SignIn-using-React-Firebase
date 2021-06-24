@@ -14,6 +14,8 @@ Built with React & Google Firebase Authentication.
 * User details(email address) are stored in Firebase 
 * Firebase user permission is given to "developer.doctune@gmail.com"
 
+* Project Authentication link : " https://console.firebase.google.com/u/2/project/login-767df/authentication/users "
+
 
 # coded using VSCode
 
